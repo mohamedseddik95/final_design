@@ -40,8 +40,8 @@ a:hover {
 	display:block;
 	float: left;
 	padding:5px;
-	margin-bottom:20px;
-	margin-right:10px;
+	/*margin-bottom:20px;
+	margin-right:10px;*/
 	height:30px;
 	width:110px;
 	text-align:center;
@@ -49,6 +49,11 @@ a:hover {
 	border: solid black;
 	border-radius: 5px 20px 5px;
 	font-weight: bold
+	position: absolute;
+	 left: 50%;
+	 top: 50%; 
+	 margin-left: -150px;
+	 margin-top: -150px;
 }
 
 #menu {
