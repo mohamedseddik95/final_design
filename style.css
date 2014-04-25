@@ -41,14 +41,16 @@ a:hover {
 	float: left;
 	padding:5px;
 	margin-bottom:20px;
-	margin-right:10px;
+	margin-right:auto;
+	margin-left:auto;
 	height:30px;
 	width:110px;
 	text-align:center;
 	font-size:13px;
 	border: 2px solid white;
 	border-radius:10px;
-	text-align: center
+	text-align: center;
+	font-weight: bold
 }
 
 #menu {
