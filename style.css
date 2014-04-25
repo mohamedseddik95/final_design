@@ -6,8 +6,8 @@ body {
 	margin:auto;
 }
 html { 
-  background: url(http://msutoday.msu.edu/_/img/assets/2013/msu-sign.jpg) no-repeat center ; 
-  background-size: cover;
+  background: url(http://upload.wikimedia.org/wikipedia/commons/d/d4/MSU_Union.jpg) no-repeat bottom ; 
+  background-size: auto;
 }
 
 header, main, footer {
