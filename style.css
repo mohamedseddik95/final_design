@@ -14,7 +14,7 @@ header, main, footer {
 	
 }
 
-header, main h1 {
+header, main, h1, h2 {
 	color:black;
 	font-weight: bold;
 }
@@ -48,6 +48,7 @@ a:hover {
 	font-size:13px;
 	border: 2px solid white;
 	border-radius:10px;
+	text-align: center
 }
 
 #menu {
