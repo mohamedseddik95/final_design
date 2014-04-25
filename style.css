@@ -33,7 +33,7 @@ a:hover {
 	list-style: none;
 	width:960px;
 	margin-left:-40px;
-	box: center;
+	box-align: center;
 	
 }
 
