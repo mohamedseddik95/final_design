@@ -23,6 +23,7 @@ header, main, footer {
 header, main, h1, h2 {
 	color:black;
 	font-weight: bold;
+	font-family: Stalemate ;
 }
 
 a, a:visited {
@@ -87,3 +88,5 @@ article {
 	}
 	
 p 	{ color: black;
+	 font-family: Lato;
+
