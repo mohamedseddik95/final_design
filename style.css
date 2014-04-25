@@ -5,7 +5,10 @@ body {
 	width:960px;
 	margin:auto;
 }
-
+html { 
+  background: url(http://msutoday.msu.edu/_/img/assets/2013/msu-sign.jpg) no-repeat center ; 
+  background-size: cover;
+}
 
 header, main, footer {
 	clear:both;
