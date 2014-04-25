@@ -32,8 +32,9 @@ a:hover {
 #nav {
 	list-style: none;
 	width:960px;
-	margin-left:-40px;
-	box-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	position: center;
 	
 }
 
